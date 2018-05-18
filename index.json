@@ -1,0 +1,48 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Chile",
+      "goals": 123,
+      "ranking": 4,
+      "kms": 3256,
+      "years": [
+        "1964",
+        "1994",
+        "2002"
+      ],
+      "players": 5,
+      "position": "Campeon"
+    },
+    {
+      "name": "Venezuela",
+      "goals": 5,
+      "ranking": 4,
+      "kms": 3256,
+      "years": [
+        "1964",
+        "1994",
+        "2002"
+      ],
+      "players": 5,
+      "position": "Campeon",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "hervis15@gmail.com",
+      "last": "2018-05-18T15:42:25-04:00",
+      "gender": "male",
+      "size": "M"
+    },
+    {
+      "id": 2,
+      "email": "dsalazar@zeroq.cl",
+      "last": "2018-05-17T15:42:25-04:00",
+      "gender": "male",
+      "size": "L"
+    }
+  ]
+}
